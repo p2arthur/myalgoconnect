@@ -1,5 +1,5 @@
 {
-  "please work": "work",
+  "work": "pleasework",
   "dependencies": {
     "@randlabs/myalgo-connect": "^1.3.1"
   }
